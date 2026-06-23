@@ -4,6 +4,13 @@
   <p>
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </p>
+  
+  <!-- Snake game animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shihebamrii/shihebamrii/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shihebamrii/shihebamrii/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/shihebamrii/shihebamrii/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
