@@ -121,10 +121,10 @@ Here are some of my public tools and platforms that you can check out:
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shihebamrii" target="_blank">
+  <a href="https://linkedin.com/in/shihebamri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:shihebamri@gmail.com" target="_blank">
+  <a href="mailto:shihebamrii@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://shihebamrii.github.io/" target="_blank">
