@@ -15,6 +15,16 @@
 
 ---
 
+## 🏆 My GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shihebamrii&theme=tokyonight&margin-w=15&margin-h=15" alt="Shiheb's Trophies" />
+  </a>
+</p>
+
+---
+
 ## 💫 About Me
 
 I am a passionate Full-Stack Software Engineer and Cybersecurity Enthusiast focused on building high-performance, secure, and user-friendly applications. I enjoy creating local networking utilities, safety tools, and custom desktop platforms.
@@ -94,6 +104,30 @@ Here are some of my public tools and platforms that you can check out:
   <img src="https://github-readme-stats.vercel.app/api?username=shihebamrii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shiheb's GitHub Stats" height="195px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihebamrii&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Shiheb's Top Languages" height="195px" />
 </p>
+
+### 📈 Coding Activity (Last 30 Days)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihebamrii&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff9e64&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihebamrii&theme=tokyonight&hide_border=true" alt="Shiheb's Contribution Streak" height="195px" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shihebamrii" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shihebamri@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://shihebamrii.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
