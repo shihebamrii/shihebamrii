@@ -1,6 +1,6 @@
 <!-- Profile README -->
 <div align="center">
-  <h1>Hi there, I'm Shiheb Amrii! 👋</h1>
+  <h1>Hi there, I'm Shiheb Amri (Chiheb Amri / شهاب عامري)! 👋</h1>
   <p>
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </p>
@@ -92,9 +92,12 @@ I am a passionate Full-Stack Software Engineer and Cybersecurity Enthusiast focu
 
 Here are some of my public tools and platforms that you can check out:
 
-*   📂 **[local-file-server](https://github.com/shihebamrii/local-file-server)** - A lightweight Flask application to safely browse and manage your Windows PC files over a local area network (LAN) with password protection and secure sessions.
-*   🛡️ **[CyberSafe](https://github.com/shihebamrii/CyberSafe)** - A platform focused on local cybersecurity practices, threat scanning, and system safety tools.
-*   🎬 **[streambert](https://github.com/shihebamrii/streambert)** - A cross-platform Electron Desktop application designed to stream and download Movies, TV Series, and Anime with zero tracking or advertisements.
+*   ⭐ **[vessel](https://github.com/shihebamrii/vessel)** - Local-first, agentless remote VPS control plane built with Rust, Tauri v2, and SolidJS.
+*   🕸️ **[distributed-honeypot](https://github.com/shihebamrii/distributed-honeypot)** - Multi-container threat intelligence deception platform with low-interaction SSH and HTTP traps.
+*   🛡️ **[securdns-resolver](https://github.com/shihebamrii/securdns-resolver)** - High-throughput DNS firewall sinkholing malicious domains to 0.0.0.0.
+*   🔒 **[CyberSafe](https://github.com/shihebamrii/CyberSafe)** - Workstation threat scanner and vulnerability auditor.
+*   🎬 **[streambert](https://github.com/shihebamrii/streambert)** - Cross-platform Electron desktop media platform with zero tracking or telemetry.
+*   📂 **[local-file-server](https://github.com/shihebamrii/local-file-server)** - Safe peer-to-peer LAN file browser with session encryption.
 
 ---
 
@@ -127,7 +130,7 @@ Here are some of my public tools and platforms that you can check out:
   <a href="mailto:shihebamrii@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://shihebamrii.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://shiheb.is-a.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-shiheb.is--a.dev-00E5FF?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio" />
   </a>
 </p>
